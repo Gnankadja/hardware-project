@@ -7,11 +7,11 @@ const mysql = require('mysql');
 
 // Déclaration d'une varible d'initialisation de la Base de donnée SQL
 var db_config = {
-  host: "projetsuatmgasa.com",
+  host: "localhost",
   port: "3306",
-  user: "wnth9873_sil3_student",
-  password: "Student2021",
-  database: "wnth9873_hardware"
+  user: "root",
+  password: "",
+  database: "hardware"
 };
 
 
